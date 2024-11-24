@@ -11,7 +11,6 @@
 - Differnce between caret and tilde (^ & ~);
 
 
-
 -  initialize git
 - .gitignore
 -  create  a  remote repo on github
@@ -21,4 +20,24 @@
 - install a postman 
 - make a test api call in your workspace
 - Write logic to handle GET, POST, PATCH, PUT, DELETE API calls and test them on postman
+- explore routing and use  of  ?, + , (),  * in the routes
+- explore regex /a/ , /.*fly$/
 
+
+  -Multiple Route Handlers - play with the code
+  -next()
+  -next function and errors along with res.send()
+  -Read about middleware & how expressjs handle behind the scene
+  -Differnce between app.use and app.all
+  -write  a dummy  auth middleware for admin
+  -write a dummy auth middleware for all user route except user/login
+
+
+  -create a userSchema
+  -creare a post/signup API to to add data to database
+  -Push some documents using API calls from postman
+
+
+  -JS objet vs JSON diffrence
+  - add the express.json() middleware to your app
+  -make your signup API dynamic to recieve data from the enduser
