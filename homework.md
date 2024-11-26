@@ -41,3 +41,23 @@
   -JS objet vs JSON diffrence
   - add the express.json() middleware to your app
   -make your signup API dynamic to recieve data from the enduser
+
+
+  -API get user by email
+  -API - FEED API -GET/FEED get all the users from database
+  -get users by find by id
+  
+
+  -difference between patch and put
+  -API update  a user 
+  -Explore the mongoose documentation for model exploration. explore more about it.
+
+
+  -explore schema types options from the documentation
+  -add require, unique, lowerCase, min, minLength, trim
+  -add default value 
+  -create a custom validate functions for genders
+  -Improve the DB schema
+  -add timestamps to the schema
+
+
