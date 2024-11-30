@@ -59,5 +59,47 @@
   -create a custom validate functions for genders
   -Improve the DB schema
   -add timestamps to the schema
+  -add API level validation on patch request signup post api.
+  -add API validation for each field. 
 
 
+  -install validator
+  -explore vlidator library functions and use for email, password and URL
+
+
+  -validate data in signup API
+  -Install bcrypt package
+  -Create PasswordHash using bcrypt.hash 7 save user is excrupted password
+  -create login API
+  -compare password and throw error if password is invalid;
+
+
+
+  -install cookie-parser
+  -just send a dummy cookie to  user
+  -create GET/profile API and check if you get the cookie back
+  -install jsonwebtoken
+  -In login API after email & password validation, create a JWT token and send it to user n cookies
+  -read the cookie inside your profile API and find the loggedIn user
+
+  -create userAuth middleware
+  -Add userAuth middleware in profile API an send newconnetionrequest API.
+  -set the expiry of JWT token and cookies to 7 days. 
+
+
+  -create userSchema method to get jwt();
+  -create userSchema method to compare password(passsword)
+
+
+
+  -explore tinder API
+  -create a list of  all API you can think of in tinder  API
+  -Group multiple routes under respective routers
+
+
+
+  -read documentation for express.router()
+  -creates route folder for managing auth profile, request routers
+  -create authRouter , profileRouter,  requestRouter
+  -import these router in app.js
+   
