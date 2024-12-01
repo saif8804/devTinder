@@ -103,3 +103,9 @@
   -create authRouter , profileRouter,  requestRouter
   -import these router in app.js
    
+
+
+  -create POST/logout API 
+  -create PATCH/ profile/ edit
+  -creat PATCH / profile / password
+  -make you validate all API data in every POST, PATCH API.
