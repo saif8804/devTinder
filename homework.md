@@ -103,9 +103,20 @@
   -create authRouter , profileRouter,  requestRouter
   -import these router in app.js
    
-
-
   -create POST/logout API 
   -create PATCH/ profile/ edit
   -creat PATCH / profile / password
   -make you validate all API data in every POST, PATCH API.
+  
+
+
+-create connection request schema
+-send connection request API
+-Proper Validation of data
+-think about all corner cases
+_$or and $and query in mongoose- 
+
+-schema.pre("save")function
+-Read more about indexes in mongoDB
+-why do we need indexes in mongoDB ?
+
