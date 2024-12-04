@@ -120,3 +120,12 @@ _$or and $and query in mongoose-
 -Read more about indexes in mongoDB
 -why do we need indexes in mongoDB ?
 
+
+
+-Read about ref and populate
+-Create GET/user/requests/recieved with all the checks
+
+-create GET/user/connection
+-logic for GET/FEED  API 
+-explore $nin $and $ne and others queries.
+
